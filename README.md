@@ -30,3 +30,6 @@ This project was heavily inspired by the webrings made by students from other un
 - [McGill CS Webring](https://mcgillcswebring.pages.dev/) - McGill University
 - [UBC Webring](https://webring.michaeldemar.co/) - University of British Columbia
 
+## Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+Run `npm install` to install dependencies and `npm run dev` to start the development server.
