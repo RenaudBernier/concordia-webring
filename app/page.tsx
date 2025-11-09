@@ -186,7 +186,7 @@ export default function Home() {
                                 <li><a href="https://cs.uwatering.com/" className="webring-link">Waterloo Computer Science Webring</a></li>
                             </ul>
                             <p className="text-comment text-sm mt-3">
-                                Want to add your website? Submit your information by creating a <a href="https://github.com/rvdeguzman/concordia-webring/" className="webring-link">pull request</a> that updates the <span style={{ fontFamily: 'Iosevka, monospace', color: 'var(--accent1)' }}>webring.json</span> file with your site details.
+                                Want to add your website? Submit your information by creating a <a href="https://github.com/rvdeguzman/concordia-webring/" className="webring-link">pull request</a> that updates the <span style={{ fontFamily: 'Iosevka, monospace', color: 'var(--accent1)' }}>webring.json</span> file, or <a href="https://forms.gle/czK7N4DzcY8b7RYw8" className="webring-link">Google Forms</a> and fill with your site details.
                             </p>
                             <div className="flex gap-4 mt-4">
                                 {TABS.map((tab, idx) => (
